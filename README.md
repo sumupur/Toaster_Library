@@ -24,6 +24,6 @@ Toaster_Library
 Now, Add this line in your code where you wanr show toasts message
 
 
- ToasterMessage.s(Context,String message);
+ 		ToasterMessage.s(Context,String message);
  
- Ex.:-ToasterMessage.s(MainActivity.this,"Hello"); 		//MainActivity class
+ 		Ex.:-ToasterMessage.s(MainActivity.this,"Hello"); 		//MainActivity class
