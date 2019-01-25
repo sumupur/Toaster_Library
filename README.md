@@ -18,3 +18,12 @@ Toaster_Library
 	dependencies {
 	        implementation 'com.github.sumupur:Toaster_Library:0.1.0'
 	}
+
+
+
+Now, Add this line in your code where you wanr show toasts message
+
+
+ ToasterMessage.s(Context,String message);
+ 
+ Ex.:-ToasterMessage.s(MainActivity.this,"Hello"); 		//MainActivity class
