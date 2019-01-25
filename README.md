@@ -16,6 +16,7 @@ Toaster_Library
 ###Step 2. Add the dependency
 
 	dependencies {
+		.....
 	        implementation 'com.github.sumupur:Toaster_Library:0.1.0'
 	}
 
